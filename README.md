@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm **serat**
 
-🎂 18 years old | 🎓 Student at **KNITU-KAI**  
+🎂 18 years old | 🎓 Student at **KNRTU-KAI**  
 💻 4 years of Python development  
 🚀 Skilled in **Kotlin** and **Jetpack Compose**  
 🔧 Currently diving into **Backend Development** and **Reverse Engineering**
