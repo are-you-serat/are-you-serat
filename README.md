@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! 👋 I'm **serat**
 
-<!--
-**are-you-serat/are-you-serat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂 18 years old | 🎓 Student at **KNITU-KAI**  
+💻 4 years of Python development  
+🚀 Skilled in **Kotlin** and **Jetpack Compose**  
+🔧 Currently diving into **Backend Development** and **Reverse Engineering**
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose&logoColor=white)
+![Backend](https://img.shields.io/badge/-Backend-000000?logo=backend&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-FF6F61?logo=reverse-engineering&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- [Telegram](https://t.me/are_you_serat)
+- [VK](https://vk.com/are_you_serat)
+
+---
+
+💡 Always learning, always building. Let's create something amazing together!
